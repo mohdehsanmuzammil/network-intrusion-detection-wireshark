@@ -1,3 +1,5 @@
+Hands-on-cybersecurity project demonstrating real-time intrusion detection using packet analysis
+
 Network Intrusion Detection using Wireshark
 
 Project Overview
